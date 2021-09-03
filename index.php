@@ -1,5 +1,6 @@
 <?php 
 
-echo "this is the main page"
+$x = 1;
+echo "this is the main page ".$1;
 
 ?>
